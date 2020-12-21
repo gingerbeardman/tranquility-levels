@@ -195,3 +195,25 @@ Some .tq levels masquerade as GIF files for reasons I do not yet understand.
 
 ## example level:
 - [Daily Demo (May 10, 2011)](contributions/gingerbeardman/raw.tq)
+
+## undocumented keys in the game
+- f = futurist [magic 8-ball messages] (off, on)
+- h = help (same as ?)
+- H = jump to max height
+- m = music mode (trio, quartet, pastoral, ensemble, traditional, adaptive, mostly drums, all drums)
+- R = track playback (off, on)
+- r = track recording (on, off)
+- t = frame rate limit (unlimited, 60fps, 30fpstt)
+- w = waterfall mode (off, light, full)
+- W = wireframe mode (off, on)
+- X = G_MirrorTexture decrease
+- x = G_MirrorTexture increase
+- Z = PlaformOffset decrease
+- z = PlaformOffset increase
+- [ = maximum speed decrease
+- ] = maximum speed increase
+- | = show/cycle welcome message
+- home = view score
+- pg down = look down
+- pg up = look up
+- end = look straight/reset

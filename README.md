@@ -23,7 +23,7 @@ Q = quark
 # = comment
 ```
 ## detailed guide (work in progress)
-Each .tq level file contains a definition for 7 layouts, each containing a spinner.
+Each plain text .tq level file contains a definition for 7 layouts, each containing a spinner. Some .tq levels masquerade as GIF files for reasons I do not yet understand.
 - `A` = aggregate
    - example: `A 1`
    - this is a counter that increments before each event

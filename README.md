@@ -1,10 +1,10 @@
 # tranquility-levels
 Levels for the discontinued game tranquility www.tqworld.com
 
-# what game?
+## what game?
 download: https://macintoshgarden.org/games/tranquility
 
-# description language
+## description language
 Taken from a file included with the game:
 ```
 I = init
@@ -22,7 +22,8 @@ Q=quark
 #=comment
 ```
 
-# example: Daily Demo (May 10, 2011)
+## example level:
+Daily Demo (May 10, 2011)
 ```
 I
 W 1.0 0 1.0 0.0 0.0 0.0 0.03 20.0 0.006 500.0 1200.0 500.0 300.0 1.0 1.0 1.0 F205

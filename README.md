@@ -203,7 +203,7 @@ Some .tq levels masquerade as GIF files for reasons I do not yet understand.
 - m = music mode (trio, quartet, pastoral, ensemble, traditional, adaptive, mostly drums, all drums)
 - R = track playback (off, on)
 - r = track recording (on, off)
-- t = frame rate limit (unlimited, 60fps, 30fpstt)
+- t = frame rate limit (unlimited, 60fps, 30fps)
 - w = waterfall mode (off, light, full)
 - W = wireframe mode (off, on)
 - X = G_MirrorTexture decrease

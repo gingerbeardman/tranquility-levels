@@ -31,9 +31,9 @@ Some .tq levels masquerade as GIF files for reasons I do not yet understand.
    - see: E = event
 - `C` = color
   - example: `C 10 0.930308 0.886546 0.479355 0.7 0.00005 0.136678 0.842395 0.479355 0.7 0.00005`
-  - format: type r g b a r g b a delta
+  - format (gradient): type r g b a r g b a delta
   - example: `C 0 0.0 1.85 0.4 0.2 0.0001`
-  - format: type r g b a delta
+  - format (solid): type r g b a delta
     - type
       - 10 = gradient
       - 0 = solid

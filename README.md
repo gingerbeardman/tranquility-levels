@@ -6,7 +6,7 @@ Levels for the discontinued game tranquility www.tqworld.com
 - Windows download: https://web.archive.org/web/20060921084553/http://www.tqworld.com:80/tranquilityWIN.exe
 
 ## encoded
-Some levels are encoded. To decode them simply play them and save them in a new slot.
+Some levels are encoded. To decode them into plain text simply play them and save them in a new slot.
 
 # description language
 

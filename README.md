@@ -2,11 +2,11 @@
 Levels for the discontinued game tranquility www.tqworld.com
 
 ## what game?
-- Mac download: https://macintoshgarden.org/games/tranquility
-- Windows download: https://web.archive.org/web/20060921084553/http://www.tqworld.com:80/tranquilityWIN.exe
+- Mac (32-bit Intel & PPC): https://macintoshgarden.org/games/tranquility
+- Windows: [archived download](https://web.archive.org/web/20060921084553/http://www.tqworld.com:80/tranquilityWIN.exe)
 
-## encoded
-Some levels are encoded. To decode them into plain text simply play them and save them in a new slot.
+## encoded levels
+The numbered levels are encoded. To decode them into plain text simply play them and save them in a new slot.
 
 # description language
 

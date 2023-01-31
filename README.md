@@ -10,9 +10,6 @@ Levels for the discontinued game tranquility www.tqworld.com
 - Mac: `~/Library/Preferences/tranquility`
 - Windows: `C:/Program Files/tranquility/levels`
 
-## encoded levels
-The numbered levels are encoded. 
-
 # description language
 
 ## quick guide

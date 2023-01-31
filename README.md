@@ -2,7 +2,8 @@
 Levels for the discontinued game tranquility www.tqworld.com
 
 ## what game?
-download: https://macintoshgarden.org/games/tranquility
+Mac download: https://macintoshgarden.org/games/tranquility
+Widows download: https://web.archive.org/web/20060921084553/http://www.tqworld.com:80/tranquilityWIN.exe
 
 # description language
 
